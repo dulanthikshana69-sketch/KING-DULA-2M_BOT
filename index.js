@@ -13,7 +13,7 @@ const os = require('os')
 
 // --- Configuration ---
 const OWNER_NAME = "KING-DULA"; 
-const PHONE_NUMBER = "94719251323"; 
+const PHONE_NUMBER = "94789490578"; 
 const BASE_API = "https://api.giftedtech.my.id/api"; 
 const API_KEY = "gifted"; 
 
