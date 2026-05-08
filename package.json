@@ -1,0 +1,20 @@
+{
+  "name": "KING-DULA-2M_BOT",
+  "version": "1.0.0",
+  "description": "Multi-functional WhatsApp Bot by Nisala S. Vidanage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "@hapi/boom": "latest",
+    "axios": "latest",
+    "groq-sdk": "latest",
+    "yt-search": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
+  },
+  "author": "Nisala S. Vidanage",
+  "license": "ISC"
+}
